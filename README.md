@@ -27,13 +27,13 @@ Hi, I'm **Banditthane** — a developer interested in building software, explori
 ## ⟡ PROGRAMMING LANGUAGES
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,java&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,java,&theme=dark" alt="Programming languages"/>
 </div>
 
 ## ⟡ TOOLS & TECHNOLOGIES
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode,linux,docker&theme=dark" alt="Tools and technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode,linux,docker,discord&theme=dark" alt="Tools and technologies"/>
 </div>
 
 ## 𖤐 GITHUB STATISTICS
