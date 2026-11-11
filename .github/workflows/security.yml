@@ -1,7 +1,7 @@
-cat > .github/workflows/security.yml <<'EOF'
+
 name: Workflow Security Audit
 
-on:
+"on":
   push:
     branches: [main]
     paths:
@@ -37,4 +37,3 @@ jobs:
 
       - name: Run zizmor
         uses: zizmorcore/zizmor-action@53290badfa369cb0bf7ad16342cb62c2fa47ac7b
-EOF
