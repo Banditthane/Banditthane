@@ -1,93 +1,98 @@
- <div align="center">
+cat > README.md <<'EOF'
+<div align="center">
 
-# ♨ BANDITTHANE
+# ☼ BANDITTHANE
 
-### DEVELOPER · TECHNOLOGY · DIGITAL CREATION
+**DEVELOPER · BUILDER · LIFELONG LEARNER**
 
-*Code with purpose. Create with vision.*
+<sub>✦ ───────────── ◈ ───────────── ✦</sub>
 
-**เรียนรู้ · สร้างสรรค์ · พัฒนา**
+*Building useful things, one line at a time.*
 
-<img src="https://img.shields.io/badge/DEVELOPER-ฺBANDITTHANE-17130D?style=for-the-badge&labelColor=8B642D" />
+[![GitHub followers](https://img.shields.io/github/followers/Banditthane?style=flat&color=c9a45c&labelColor=0d1117&logo=github)](https://github.com/Banditthane?tab=followers)
 
 </div>
 
 ---
 
-## 🪷 ABOUT ME
+## 𖤐 ABOUT
 
-Hello, I'm **Banditthane**.
+Hi, I'm **Banditthane** — a developer interested in building software,
+exploring technologies, and turning ideas into practical projects.
 
-I'm interested in programming, software development, and exploring new technologies.
+- Interested in software and web development
+- Learning by building and experimenting
+- Exploring clean code and problem-solving
+- Always learning and improving
 
-- 💻 Software & Web Development
-- ⚙️ Programming and Development Tools
-- 🧠 Problem Solving & Logical Thinking
-- 🔥 Learning and Building New Projects
-- 🌐 Exploring AI and Modern Technology
-
----
-
-## ⚒️ TECHNOLOGY & TOOLS
+## ⟡ LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,java&theme=dark" alt="Programming languages" />
 
 </div>
 
----
-
-## 💻 PROGRAMMING LANGUAGES
+## ⟡ TOOLS & TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banditthane&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD60&text_color=E6D7B8" alt="Most used programming languages" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode,linux,docker&theme=dark" alt="Tools and technologies" />
 
 </div>
 
----
-
-## 🧠 AREAS OF INTEREST
-
-| Area | Focus |
-|---|---|
-| Development | Software & Web Development |
-| Programming | Learning Programming Languages |
-| Technology | Exploring Modern Tools |
-| Problem Solving | Logic & Debugging |
-| Creativity | Digital Creation |
-
----
-
-## 📊 GITHUB STATISTICS
+## 𖤐 GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Banditthane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD60&icon_color=C58B45&text_color=E6D7B8" width="95%" alt="GitHub statistics" />
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Banditthane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD60&icon_color=C58B45&text_color=E6D7B8&rank_icon=github"
+alt="GitHub statistics" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banditthane&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD60&text_color=E6D7B8"
+alt="Most used languages" />
+
+</div>
+
+## ⟡ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Banditthane&bg_color=0D1117&color=E6D7B8&line=D6AD60&point=C58B45&area=true&hide_border=true"
+alt="Contribution activity graph" />
+
+</div>
+
+## 𖤐 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Banditthane&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+alt="GitHub trophies" />
+
+</div>
+
+## ⟡ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Banditthane/Banditthane/output/github-contribution-grid-snake-dark.svg"
+alt="Contribution snake animation" />
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION ACTIVITY
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Banditthane/Banditthane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+<sub>◈ CREATE · CODE · LEARN · EVOLVE ◈</sub>
+
+<sub>Last updated:
+<!-- PROFILE_LAST_UPDATED_START -->Updated automatically by GitHub Actions<!-- PROFILE_LAST_UPDATED_END -->
+</sub>
+
+<sub>✦ ───────────────────────────── ✦</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### ♨ BANDITTHANE ♮
-
-**CREATE · CODE · LEARN · EVOLVE**
-
-*The art of creation is a journey without an end.*
-
-<sub>THAI MYSTIC AESTHETIC · DEVELOPER IDENTITY</sub>
-
-</div>
+EOF
