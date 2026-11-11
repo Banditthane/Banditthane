@@ -1,12 +1,14 @@
  <div align="center">
 
-# ♨ DEVELOPER PROFILE
+# ♨ BANDITTHANE
 
-### AUCK EFARIS
+### DEVELOPER · TECHNOLOGY · DIGITAL CREATION
 
 *Code with purpose. Create with vision.*
 
-คิดเป็นระบบ · สร้างสรรค์ · พัฒนาไม่หยุดยั้ง
+**เรียนรู้ · สร้างสรรค์ · พัฒนา**
+
+<img src="https://img.shields.io/badge/DEVELOPER-ฺBANDITTHANE-17130D?style=for-the-badge&labelColor=8B642D" />
 
 </div>
 
@@ -14,72 +16,65 @@
 
 ## 🪷 ABOUT ME
 
-Hello! I'm a developer interested in technology, programming, and digital creation.
+Hello, I'm **Banditthane**.
 
-- 💻 Interested in software development
-- 🧠 Passionate about learning new technologies
-- ⚙️ Exploring programming languages and development tools
-- 🔥 Building projects and improving my skills
-- 🎯 Focused on continuous learning
+I'm interested in programming, software development, and exploring new technologies.
+
+- 💻 Software & Web Development
+- ⚙️ Programming and Development Tools
+- 🧠 Problem Solving & Logical Thinking
+- 🔥 Learning and Building New Projects
+- 🌐 Exploring AI and Modern Technology
 
 ---
 
-## ⚒️ PROGRAMMING LANGUAGES
+## ⚒️ TECHNOLOGY & TOOLS
 
 <div align="center">
 
-<!-- ลบภาษาที่ไม่ได้ใช้งานจริงออก -->
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" alt="Development tools" />
 
 </div>
 
-## 🧰 TECHNOLOGIES & TOOLS
+---
+
+## 💻 PROGRAMMING LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode,linux,docker&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banditthane&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD60&text_color=E6D7B8" alt="Most used programming languages" />
 
 </div>
 
-## 🧠 SKILLS
+---
 
-| Category | Skills |
+## 🧠 AREAS OF INTEREST
+
+| Area | Focus |
 |---|---|
-| Programming | Writing & Understanding Code |
-| Web Development | Frontend & Backend |
-| Development Tools | Git, GitHub, VS Code |
-| Problem Solving | Debugging & Logical Thinking |
-| Design | UI/UX & Digital Creativity |
-| Learning | Research & Self Development |
+| Development | Software & Web Development |
+| Programming | Learning Programming Languages |
+| Technology | Exploring Modern Tools |
+| Problem Solving | Logic & Debugging |
+| Creativity | Digital Creation |
 
-## 🔥 CURRENT FOCUS
-
-- Learning new programming technologies
-- Building personal projects
-- Improving coding quality
-- Exploring AI and automation
-- Developing practical solutions
+---
 
 ## 📊 GITHUB STATISTICS
 
-<!-- เปลี่ยน YOUR_USERNAME เป็น GitHub username ของคุณ -->
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Banditthane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD60&icon_color=C58B45&text_color=E6D7B8" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banditthane&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD60&text_color=E6D7B8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Banditthane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD60&icon_color=C58B45&text_color=E6D7B8" width="95%" alt="GitHub statistics" />
 
 </div>
+
+---
 
 ## 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<!-- เปิดใช้งาน GitHub Actions สำหรับสร้าง contribution snake ก่อน -->
-
-<img src="https://raw.githubusercontent.com/Banditthane/Banditthane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Banditthane/Banditthane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 
 </div>
 
@@ -87,9 +82,11 @@ Hello! I'm a developer interested in technology, programming, and digital creati
 
 <div align="center">
 
-### ♨ AUCK EFARIS
+### ♨ BANDITTHANE ♮
 
 **CREATE · CODE · LEARN · EVOLVE**
+
+*The art of creation is a journey without an end.*
 
 <sub>THAI MYSTIC AESTHETIC · DEVELOPER IDENTITY</sub>
 
