@@ -1,205 +1,121 @@
 <div align="center">
 
-# ♨ AUCK EFARIS
+<img src="assets/auck-efaris-banner.png" alt="AUCK EFARIS — Thai mystical technology banner" width="100%">
 
-### PROMPT ENGINEERING · AI FRAMEWORK · STRUCTURED INTELLIGENCE
+# ♨ AUCK EFARIS ♮
+### STRUCTURED INTELLIGENCE FRAMEWORK
 
-**Think Structured. Build Intelligent. Execute Responsibly.**
+**คิดอย่างมีระบบ · สร้างสรรค์อย่างมีพลัง · พัฒนาอย่างรับผิดชอบ**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:18181B,100:27272A&height=150&section=header&text=AUCK%20EFARIS&fontSize=48&fontColor=E4E4E7&animation=fadeIn&fontAlignY=45&desc=STRUCTURED%20INTELLIGENCE%20FRAMEWORK&descAlignY=70&descSize=13" width="100%" />
-
-<br>
-
-![Framework](https://img.shields.io/badge/FRAMEWORK-AUCK%20EFARIS-18181B?style=for-the-badge&logo=probot&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-PROMPT%20ENGINEERING-27272A?style=for-the-badge)
-![Approach](https://img.shields.io/badge/APPROACH-STRUCTURED%20AI-3F3F46?style=for-the-badge)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8B5E34?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/)
+[![AI Framework](https://img.shields.io/badge/AI-Framework-C89B3C?style=for-the-badge)](https://github.com/)
+[![Thai Identity](https://img.shields.io/badge/Identity-Thai%20Inspired-7A1F1F?style=for-the-badge)](https://github.com/)
 
 </div>
 
 ---
 
-## ◈ 01 — IDENTITY
+## 🪷 เกี่ยวกับ AUCK EFARIS
 
-> Intelligence needs structure.  
-> Structure creates clarity.  
-> Clarity enables better execution.
+**AUCK EFARIS** คือแนวคิดและกรอบการทำงานสำหรับการใช้ AI อย่างมีโครงสร้าง มุ่งเน้นความชัดเจนของคำสั่ง การจัดการบริบท การกำหนดผลลัพธ์ และการตรวจทานโดยมนุษย์
 
-**AUCK EFARIS** is a structured prompt framework concept focused on organizing AI instructions, improving task clarity, and supporting responsible AI-assisted workflows.
+> “พลังของ AI จะเกิดประโยชน์สูงสุด เมื่อมีโครงสร้างและทิศทางที่ชัดเจน”
 
-Its approach emphasizes:
+- ♨ Prompt Engineering & AI Framework
+- 🧭 Structured Thinking & Problem Solving
+- 🛠️ Software, Tools & Automation
+- 🪷 Thai-inspired design and digital identity
+- 🔎 Review, refinement and responsible AI use
 
-- Structured communication
-- Clear task definitions
-- Context-aware instructions
-- Measurable output expectations
-- Human review and responsibility
+## 🔱 AUCK EFARIS Framework
 
----
-
-## ◈ 02 — THE FRAMEWORK
-
-<div align="center">
-
-### A · U · C · K · E · F · R
-
-**A structured approach to prompting**
-
-</div>
-
-| Element | Framework Component | Purpose |
+| Element | Focus | Purpose |
 |:---:|---|---|
-| **A** | Agent | Define role and objective |
-| **U** | Universe | Establish context and constraints |
-| **C** | Command | Specify the task |
-| **K** | Know-How | Define execution guidance |
-| **E** | Expression | Specify format, tone, and language |
-| **F** | Final Expectation | Define success criteria |
-| **R** | Review | Review output quality |
+| **A** | Agent | กำหนดบทบาทและเป้าหมาย |
+| **U** | Universe | ระบุบริบทและข้อจำกัด |
+| **C** | Command | กำหนดคำสั่งให้ชัดเจน |
+| **K** | Know-How | ระบุแนวทางดำเนินงาน |
+| **E** | Expression | กำหนดรูปแบบ ภาษา และน้ำเสียง |
+| **F** | Final Expectation | ระบุเกณฑ์ความสำเร็จ |
+| **R** | Review | ตรวจสอบความครบถ้วนและคุณภาพ |
 
-**ARIS — Adjust · Review · Improve · Sharpen**
+**ARIS Loop:** Adjust → Review → Improve → Sharpen
 
-A user-facing refinement approach for improving results.
+## 🧿 Tech Stack & Tools
 
----
-
-## ◈ 03 — OPERATING MODES
-
-Choose the structure that matches the complexity of the task.
-
-| MODE | Purpose | Application |
-|---|---|---|
-| `LITE` | Minimal structure | Quick tasks |
-| `SHORT` | Essential structure | General tasks |
-| `MID` | Extended structure | Professional tasks |
-| `FULL` | Comprehensive structure | Complex tasks |
-
-**Principle:** Use the lowest mode sufficient for the task.
-
----
-
-## ◈ 04 — CAPABILITIES
+> รายการด้านล่างเป็นชุดเริ่มต้นสำหรับปรับแต่ง — ลบไอคอนของภาษา/เครื่องมือที่ยังไม่ได้ใช้จริง และเพิ่มรายการของคุณก่อนเผยแพร่
 
 <div align="center">
 
-| DOMAIN | APPLICATION |
-|:---:|---|
-| ✦ CREATIVE | Writing · Storytelling · Content |
-| ⌘ TECHNICAL | Coding · Debugging · System Design |
-| ◈ BUSINESS | Strategy · Marketing · Analysis |
-| ⇄ TRANSLATION | Translation · Localization · Adaptation |
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,java,php,go,rust,sql&perline=8" alt="Programming language icons">
+
+### Frameworks & Runtime
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,flask,django&perline=8" alt="Framework and runtime icons">
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma&perline=8" alt="Development tool icons">
 
 </div>
 
----
+## ⚔️ Skills & Focus
 
-## ◈ 05 — WORKFLOW
+- **AI & Prompt Design** — prompt structure, context design, output review
+- **Programming** — แสดงภาษาและเทคโนโลยีที่ใช้งานจริงในส่วน Tech Stack
+- **Problem Solving** — แยกปัญหา กำหนดเงื่อนไข และตรวจผลลัพธ์
+- **Knowledge Organization** — จัดระบบข้อมูลและเอกสาร
+- **Creative Technology** — ผสานแนวคิดสร้างสรรค์กับเครื่องมือดิจิทัล
+
+## 📜 Operating Modes
+
+| Mode | ใช้เมื่อ |
+|---|---|
+| `LITE` | งานสั้น ทดลอง หรือโจทย์ไม่ซับซ้อน |
+| `SHORT` | งานทั่วไปที่มีเป้าหมายชัดเจน |
+| `MID` | งานจริงจังที่ต้องกำหนดขั้นตอนและเกณฑ์ |
+| `FULL` | งานซับซ้อนที่ต้องระบุขอบเขตและตรวจทานละเอียด |
+
+**หลักการ:** เลือกโครงสร้างที่เบาที่สุด แต่เพียงพอกับงาน
+
+## 🧭 Workflow
 
 ```text
-       INPUT
-         │
-         ▼
-   DEFINE THE GOAL
-         │
-         ▼
-   STRUCTURE CONTEXT
-         │
-         ▼
-   EXECUTE THE TASK
-         │
-         ▼
-   REVIEW THE OUTPUT
-         │
-         ▼
-   REFINE IF NEEDED
-         │
-         ▼
-      FINALIZE
+THINK
+  ↓
+STRUCTURE
+  ↓
+EXECUTE
+  ↓
+REVIEW
+  ↓
+IMPROVE
 ```
 
-**Simple workflow:**
+## 📊 GitHub Activity
 
-`Think → Structure → Execute → Review → Improve`
+<!-- เปลี่ยน YOUR_GITHUB_USERNAME เป็น GitHub username ของคุณ -->
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD60&icon_color=C58B45&text_color=E6D7B8&include_all_commits=true" alt="GitHub statistics">
 
-## ◈ 06 — DESIGN PRINCIPLES
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD60&text_color=E6D7B8" alt="Most used languages">
 
-**01 / CLARITY**
+<br>
 
-Reduce ambiguity through explicit instructions.
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=C58B45&fire=E6B85C&currStreakLabel=D6AD60&sideLabels=E6D7B8&dates=9B8B70" alt="GitHub streak">
 
-**02 / STRUCTURE**
+</div>
 
-Organize tasks into understandable components.
+## 🪷 Philosophy
 
-**03 / PRECISION**
+**Structure the thinking. Elevate the output.**
 
-Prioritize correctness, consistency, and usefulness.
-
-**04 / RESPONSIBILITY**
-
-Keep human judgment involved in important decisions.
-
-**05 / SIMPLICITY**
-
-Avoid unnecessary complexity.
-
----
-
-## ◈ 07 — RESPONSIBLE AI
-
-AUCK EFARIS is designed to support:
-
-- Responsible AI usage
-- Human-in-the-loop decision making
-- Prompt-level governance
-- Structured task execution
-
-**Limitations:** Outputs are probabilistic, not deterministic. Safety enforcement is best-effort within prompt scope. High-risk domains require external validation.
-
----
-
-## ◈ 08 — CURRENT FOCUS
-
-```yaml
-identity: AUCK EFARIS
-domain:
-  - Prompt Engineering
-  - AI Framework Design
-  - Structured Intelligence
-
-principles:
-  - Clarity
-  - Structure
-  - Precision
-  - Responsibility
-
-workflow:
-  - Define
-  - Structure
-  - Execute
-  - Review
-  - Improve
-```
-
----
+เรียนรู้ · สร้างสรรค์ · พัฒนา · ส่งต่อสิ่งที่มีคุณค่า
 
 <div align="center">
 
-## ♨ AUCK EFARIS
+♨ **AUCK EFARIS ♮**
 
-### STRUCTURE THE THINKING. ELEVATE THE OUTPUT.
-
-<br>
-
-**A FRAMEWORK FOR STRUCTURED AI INTERACTION**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27272A,50:18181B,100:09090B&height=90&section=footer" width="100%" />
-
-<sub>Designed with structure · Driven by clarity · Guided by responsibility</sub>
+<sub>A Thai-inspired identity for structured intelligence and responsible creation.</sub>
 
 </div>
