@@ -1,0 +1,44 @@
+cat > .github/workflows/ci.yml <<'EOF'
+name: Profile CI
+
+on:
+  push:
+    branches: [main]
+
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate Profile
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f .github/workflows/snake.yml
+          test -f .github/workflows/profile-update.yml
+          test -f .github/workflows/security.yml
+          test -f scripts/update_profile_timestamp.py
+
+      - name: Check README content
+        run: |
+          grep -q "Banditthane" README.md
+          grep -q "CONTRIBUTION SNAKE" README.md
+          grep -q "PROFILE_LAST_UPDATED_START" README.md
+
+      - name: Validate Python script
+        run: python -m py_compile scripts/update_profile_timestamp.py
+
+      - name: Check whitespace errors
+        run: git diff --check
+EOF
