@@ -1,23 +1,30 @@
-
+cat > .github/workflows/snake.yml <<'EOF'
 name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "17 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: Banditthane
@@ -25,10 +32,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+EOF
