@@ -1,4 +1,4 @@
-cat > scripts/update_profile_timestamp.py <<'EOF'
+
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -24,4 +24,3 @@ updated = f"{before}{start}{timestamp}{end}{after}"
 readme.write_text(updated, encoding="utf-8")
 
 print(f"README updated: {timestamp}")
-EOF
