@@ -50,11 +50,17 @@ Hi, I'm **Banditthane** — a developer interested in building software, explori
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Banditthane&bg_color=0D1117&color=E6D7B8&line=D6AD60&point=C58B45&area=true&hide_border=true" alt="Contribution activity graph"/>
 </div>
 
+
 ## 𖤐 GITHUB TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Banditthane&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Banditthane&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
 </div>
+
 
 ## ⟡ CONTRIBUTION SNAKE
 
