@@ -35,7 +35,7 @@ Hi, I'm **Banditthane** — a developer interested in building software, explori
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,git,github,vscode,linux,docker,discord&theme=dark" alt="Tools and technologies"/>
 </div>
-
+<!-- 
 ## 𖤐 GITHUB STATISTICS
 
 <div align="center">
@@ -59,7 +59,7 @@ Hi, I'm **Banditthane** — a developer interested in building software, explori
     alt="GitHub Profile Trophies"
     width="100%"
   />
-</div>
+</div> -->
 
 
 ## ⟡ CONTRIBUTION SNAKE
